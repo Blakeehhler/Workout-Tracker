@@ -1,5 +1,5 @@
 # Workout-Tracker
-##Introduction 
+## Introduction 
 A workout tracker that tracks different kind of exercises 
-##Link to deployed app
+## Link to deployed app
 https://workout-tracker435987.herokuapp.com/
